@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+One day, there will be a boasting description of who I am and what I do here. But it is not this day!!!
+
+BTW here are some of my [Gists](https://gist.github.com/Abbabon). I really like the format of just having one utility script that can help someone in distress. Real word to the wise however - don't just copy-past these. Understand what they do, and then incorporate them in a way that fits YOUR project.
+
 <!--
 **Abbabon/abbabon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
