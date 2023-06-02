@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Amit Netanel, a Unity game developer, Podcaster and nerd extraordinaire. Welcome to my humble github!
+I'm Amit Netanel, a Unity game developer, Podcaster and teacher. Welcome to my humble github!
 
 - 🎮 I'm probably working on some mobile games right now. Some of my independant games are hosted on my [itch.io profile](https://abbabon.itch.io/), though most of my work went to bigger titles such as [Jelly Button's Merge Stories](https://www.instagram.com/merge_stories/?hl=en) and [Whalo's Fish of Fortune.](https://play.google.com/store/apps/details?id=com.whalo.games.fishoffortune&hl=en&gl=US)
 
