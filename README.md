@@ -1,10 +1,10 @@
-### Hi there 👋
+### Stay a while and listen! 👋
 
 I'm Amit Netanel, a Unity game developer, Podcaster and teacher. Welcome to my humble github!
 
 - 🎮 I'm probably working on some mobile games right now. Some of my independant games are hosted on my [itch.io profile](https://abbabon.itch.io/), though most of my work went to bigger titles such as [Jelly Button's Merge Stories](https://www.instagram.com/merge_stories/?hl=en) and [Whalo's Fish of Fortune.](https://play.google.com/store/apps/details?id=com.whalo.games.fishoffortune&hl=en&gl=US)
 
-- 🎙️ [I have a podcast called Mezizei Hatransformim](https://linktr.ee/mezizim). If you think it's quite a mouthful in English, you are probably right (in Hebrew it means 'The Transforms Movers', which is what all game usually do). It's a tech-focused Unity development podcast co-hosted with my friend (and awesome developer) [Yura Sokolov](https://github.com/migus88). We aim to improve Israeli development culture by getting deep into aspects of code design, ownership, and self-improvement.
+- 🎙️ [I have a podcast called Mezizei Hatransformim](https://linktr.ee/mezizim). If you think it's quite a mouthful in English, you are probably right. In Hebrew it means 'The Transforms Movers', which is basically what all game code usually does - move transforms around. It's a tech-focused Unity development podcast co-hosted with my friend (and awesome developer) [Yura Sokolov](https://github.com/migus88). We aim to improve Israeli development culture by getting deep into aspects of code design, career and project ownership, and self-improvement.
 
 - ✍️ [I have a blog in which I (attempt) to lay down some tutorials](https://abbabon.github.io/) about utilities I've made. Add it to your RSS readers today! (does anyone other than me still use RSS as their main update tool?).
 
