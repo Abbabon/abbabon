@@ -15,3 +15,7 @@ Let's make some games! 🚀
 ----
 
 BTW here are some of my [Gists](https://gist.github.com/Abbabon). I really like the format of just having one utility script that can help someone in distress. Real word to the wise however - don't just copy-past these. Understand what they do, and then incorporate them in a way that fits YOUR project.
+
+---
+
+<a href="https://app.daily.dev/amitnetanel"><img src="https://api.daily.dev/devcards/v2/XEc5C2BqBWuN1eYry2S0I.png?r=q3y&type=default" width="356" alt="Amit Netanel's Dev Card"/></a>
