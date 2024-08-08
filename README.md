@@ -19,5 +19,3 @@ BTW here are some of my [Gists](https://gist.github.com/Abbabon). I really like 
 ---
 
 <a href="https://app.daily.dev/amitnetanel"><img src="https://api.daily.dev/devcards/v2/XEc5C2BqBWuN1eYry2S0I.png?r=q3y&type=default" width="356" alt="Amit Netanel's Dev Card"/></a>
-
-<iframe frameborder="0" src="https://itch.io/embed/2885424?linkback=true&amp;border_width=0&amp;bg_color=f2eee0&amp;fg_color=1e3472&amp;link_color=16B8A4&amp;border_color=634f48" width="550" height="165"><a href="https://abbabon.itch.io/exploding-sheep">Exploding Sheep by Amit Netanel, babagilboa</a></iframe>
